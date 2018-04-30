@@ -1,9 +1,9 @@
 {
   "name": "app-router",
-  "version": "2.7.2",
+  "version": "3.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erikringsmuth/app-router.git"
+    "url": "https://github.com/exper1/app-router.git"
   },
   "scripts": {
     "test": "node node_modules/gulp/bin/gulp.js ci"
